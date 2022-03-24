@@ -12,22 +12,17 @@ To impress clients, the codebase should be improved for long-term sustainability
 * increasing the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements
 * including comments before each element or section of the page.
 
-Goal:
+Goals:
 Refactoring a provided codebase that follows accessibility standards so that the site is optimized for search engines so that:
 * Semantic HTML elements are found in the source code
 * Elements follow a logical structure independent of styling and positioning
 * Accessible alt attributes are found in the icon and image elements
 * Heading attributes fall in sequential order
-* title element contains a concise, descriptive title
-```
+* Title element contains a concise, descriptive title
 
-Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]([D1Qjsg7.png](https://github.com/jchoe125/Horiseon/blob/main/D1Qjsg7.png))
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+Submit:
+* The URL of the deployed application.
+  * URL of deployed application: https://jchoe125.github.io/Horiseon/
+* The URL of the GitHub repository, with a unique name and a README that describes the project
+  * URL to GitHub repository: https://github.com/jchoe125/Horiseon
 * Repository contains quality README file with description, screenshot, and link to deployed application.
